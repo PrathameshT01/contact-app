@@ -7,9 +7,9 @@ function Home() {
 
     const[contacts,Setcontacts] = useState([
         {
-            name:'Snehal',
-            email:'snehal123@gmail.com',
-            mobile:7588936024
+            name:'Snehal parate',
+            email:'snehal@12gmail.com',
+            mobile:4567891234
         }
     ]);
 
